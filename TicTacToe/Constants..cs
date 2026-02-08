@@ -1,4 +1,4 @@
-﻿namespace TicTacToe
+﻿namespace TictacToe
 {
     public static class Constants
     {
